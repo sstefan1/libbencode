@@ -22,5 +22,5 @@ include_directories(include)
 # Compiler options.
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -Wpedantic -Wall -Wextra")
 
-add_subdirectory(include/bencode)
+# add_subdirectory(include/bencode)
 add_subdirectory(lib)
