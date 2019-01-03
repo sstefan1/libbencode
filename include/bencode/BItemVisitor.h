@@ -20,10 +20,10 @@ class BItemVisitor {
 public:
   virtual ~BItemVisitor() = default;
 
-  virtual void Visit(BDictionary *Dictionary) = 0;
-  virtual void Visit(BInteger *Integer) = 0;
-  virtual void Visit(BList *List) = 0;
-  virtual void Visit(BString *String) = 0;
+  virtual void visit(BDictionary *Dictionary) = 0;
+  virtual void visit(BInteger *Integer) = 0;
+  virtual void visit(BList *List) = 0;
+  virtual void visit(BString *String) = 0;
 
 protected:
   BItemVisitor() = default;

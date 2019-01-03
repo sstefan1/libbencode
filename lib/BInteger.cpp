@@ -1,5 +1,5 @@
-#include "BInteger.h"
-#include "BItemVisitor.h"
+#include "Bencode/BInteger.h"
+#include "Bencode/BItemVisitor.h"
 
 namespace bencode {
 
@@ -9,6 +9,6 @@ int64_t BInteger::value() const { return Value; }
 
 void BInteger::setValue(int64_t Value) { this->Value = Value; }
 
-void BInteger::accept(BItemVisitor *Visitor) { visitor->visit(this); }
+void BInteger::accept(BItemVisitor *Visitor) { Visitor->visit(this); }
 
 } // namespace bencode

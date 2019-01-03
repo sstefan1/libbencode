@@ -1,0 +1,5 @@
+/Users/sstefan/projects/blok4/libbencode/build/CMakeFiles/rebuild_cache.dir
+/Users/sstefan/projects/blok4/libbencode/build/CMakeFiles/edit_cache.dir
+/Users/sstefan/projects/blok4/libbencode/build/lib/CMakeFiles/rebuild_cache.dir
+/Users/sstefan/projects/blok4/libbencode/build/lib/CMakeFiles/edit_cache.dir
+/Users/sstefan/projects/blok4/libbencode/build/lib/CMakeFiles/bencode.dir
