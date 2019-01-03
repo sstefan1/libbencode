@@ -1,8 +1,0 @@
-# ninja log v5
-0	168	1546514453	lib/CMakeFiles/bencode.dir/BInteger.cpp.o	3b59574628976f13
-169	204	1546514453	lib/libbencode.a	41aad305579cb859
-1	168	1546518298	lib/CMakeFiles/bencode.dir/BInteger.cpp.o	67190d45ba5c4f67
-1	422	1546518929	lib/CMakeFiles/bencode.dir/BList.cpp.o	25ed1bda64190e6c
-1	210	1546522222	lib/CMakeFiles/bencode.dir/BString.cpp.o	d84351511b0291c3
-2	307	1546522364	lib/CMakeFiles/bencode.dir/BDictionary.cpp.o	d105c9bfba2e9e63
-307	363	1546522365	lib/libbencode.a	67895c552433efbe
